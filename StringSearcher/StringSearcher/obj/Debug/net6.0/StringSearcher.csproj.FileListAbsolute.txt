@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\bin\Debug\net6.0\StringSearcher.exe
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\bin\Debug\net6.0\StringSearcher.deps.json
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\bin\Debug\net6.0\StringSearcher.runtimeconfig.json
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\bin\Debug\net6.0\StringSearcher.dll
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\bin\Debug\net6.0\StringSearcher.pdb
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.AssemblyInfo.cs
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.dll
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\refint\StringSearcher.dll
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.pdb
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\StringSearcher.genruntimeconfig.cache
+C:\Users\denis\source\repos\StringSearcher\StringSearcher\obj\Debug\net6.0\ref\StringSearcher.dll
